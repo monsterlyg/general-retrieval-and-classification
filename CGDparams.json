@@ -1,0 +1,10 @@
+{
+  "num_class": 252,
+  "MAX_EPOCHES": 121,
+  "batchSize":128,
+  "step_lr": 50,
+  "lr":0.0001,
+  "color_jitter": true,
+  "save_path": "/mnt/liyinggang/tmp/LV/checkpoint",
+  "save_name": "CGD_clothes"
+}
